@@ -1,0 +1,35 @@
+footer {
+  background-color: #182628;
+  /* background-color: #24305e; */
+
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0.8rem;
+  display: flex;
+  color: #f3e0dc;
+}
+
+.foot {
+  margin-left: 0.8rem;
+  color: #f3e0dc;
+  justify-content: space-between;
+  font-size: 0.5rem;
+}
+.foot:hover {
+  color: #a7430d;
+}
+
+.copyright {
+  color: #f3e0dc;
+  margin-left: auto;
+  padding-top: 0.4rem;
+}
+
+@media only screen and (min-width: 726px) {
+  .foot {
+    font-size: 0.8rem;
+  }
+}

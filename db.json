@@ -1,0 +1,90 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Ayan lugbe",
+      "email": "ayan@email.com",
+      "password": "password1"
+    },
+    {
+      "id": 2,
+      "firstName": "Jose",
+      "lastName": "nuke",
+      "email": "jose@email.com",
+      "password": "password1"
+    },
+    {
+      "id": 3,
+      "firstName": "rossy",
+      "lastName": "charles",
+      "email": "rossy@email.com",
+      "password": "password1"
+    },
+    {
+      "firstName": "rose",
+      "lastName": "marion",
+      "email": "rossy@mail.com",
+      "password": "password1",
+      "id": 4
+    },
+    {
+      "email": "rossy@mail.com",
+      "password": "password1",
+      "id": 5
+    },
+    {
+      "email": "ayan@email.com",
+      "password": "password1",
+      "id": 6
+    },
+    {
+      "email": "ayan@email.com",
+      "password": "password1",
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "FIRST Hurray its the first ",
+      "content": "will get the best in the field",
+      "date": "2023-11-01T0:14:00",
+      "userId": "Tife",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      }
+    },
+    {
+      "id": 2,
+      "title": "SECOND Hurray its the SECOND ",
+      "content": "echnical writing is the writing of technical content, particularly relating to industrial and other applied sciences, with an emphasis on occupational contexts. The range of audiences for technical writing varies widely. In some cases, it is directed to people with specialized knowledge, such as experts or technicians. In other situations, technical writers help convey complex scientific or niche subjects to end users who need a basic understanding of a concept rather than a full explanation of a subject. Technical writing is the largest part of technical communication.Examples of fields requiring technical writing include computer hardware and software, architecture, engineering, chemistry, aeronautics, robotics, finance,",
+      "date": "2023-11-01T0:14:00",
+      "userId": "Peace",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      }
+    },
+    {
+      "id": 9,
+      "title": "THIRD Here goes a new one THIRD ",
+      "content": "will get the best in the field",
+      "date": "2023-11-01T0:14:00",
+      "userId": "Peace",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      }
+    }
+  ]
+}

@@ -9,7 +9,7 @@ import { useSelector, useDispatch } from 'react-redux';
   selectCount,
 } from './counterSlice';
 */
-import { changeToBlue, changeToGreen, changeToRed } from './counterSlice';
+import { changeToBlue, changeToGreen, changeToRed } from './userSlice';
 // import styles from './Counter.module.css';
 import '../../index.css';
 

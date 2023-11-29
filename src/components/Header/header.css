@@ -1,0 +1,61 @@
+/* #5cdb95
+#0B0C10
+
+#12833
+ USE THIS
+
+ #5D001E - HEADER
+
+ 3AAFA9
+ 17252A
+ DEF2F1
+ FEFFFF
+ bg-body-tertiary
+*/
+
+.navigation {
+  display: flex;
+
+  background-color: #5c2018;
+  background-color: #182628;
+  font-size: 20px;
+  font-weight: 700;
+  color: #feffff;
+}
+
+.right-link {
+  margin-left: auto;
+}
+
+.all-link {
+  margin: auto;
+}
+.all-link a {
+  color: #feffff;
+  margin-left: 1.5rem;
+  letter-spacing: 2px;
+}
+.all-link a:hover {
+  color: #a7430d;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.home-search {
+  margin: 1rem auto;
+  max-width: 550px;
+  border-color: #3b945e;
+  border-color: #08120c;
+}
+
+.home-search input {
+  border-color: #3b945e;
+}
+
+.home-search button {
+  background-color: #182628;
+  color: #feffff;
+}
